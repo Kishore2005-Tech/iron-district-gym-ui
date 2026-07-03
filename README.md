@@ -12,7 +12,7 @@
 <div align="center">
 
 ### ◈ Motion is the message. ◈
-*A product landing experience where every scroll, every click, every transition is a designed moment.*
+**A product landing experience where every scroll, every click, every transition is a designed moment.**
 
 </div>
 
