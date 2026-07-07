@@ -36,7 +36,7 @@ Traditional landing page:    Section 1  →  scroll  →  Section 2  (boring)
 Evasion:          Scene 1 dissolves  →  camera drifts  →  Scene 2 assembles
 ```
 
-Every page and section transition in Evasion is a **unique, one-of-a-kind animation sequence** — not a template, not a preset. The product moves, the typography performs, and the environment responds to the user at every step.
+Every page and section transition in Evasion is a unique, one-of-a-kind animation sequence — not a template, not a preset. The product moves, the typography performs, and the environment responds to the user at every step.
 
 ---
 
